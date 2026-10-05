@@ -30,10 +30,12 @@ Upload a photo → resize and normalize the image → run the fine-tuned Efficie
 
 - **CV technique:** Image classification
 - **Model architecture:** Convolutional Neural Network (CNN)
-- **Model:** EfficientNet-B0 (PyTorch, n.d.)
+- **Model:** EfficientNet-B0 (PyTorch)
 - **Usage method:** Transfer learning
 - **Framework:** PyTorch and Torchvision
 - **Compute:** Google Colab free tier
+
+EfficientNet-B0 is a convolutional neural network designed for image classification. It learns visual patterns in images and uses them to predict a category. Torchvision provides the model with pretrained weights, which we will adapt for our waste-classification task (PyTorch).
 
 We will start with pretrained weights, replace the final classifier with six outputs, and train the model using TrashNet. Transfer learning gives us a starting point instead of training a model from scratch. One classifier keeps the project focused and fits our Tier 1 scope.
 
