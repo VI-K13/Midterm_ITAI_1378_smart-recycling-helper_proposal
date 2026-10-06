@@ -33,7 +33,7 @@ This work covers the proposal and documentation. We have not trained the model o
 
 ## Tien Manh Nguyen
 
-### 2026-10-05 --- Project Proposal Planning
+### 2026-10-03 --- Project Proposal Planning
 
 -   **AI tool:** ChatGPT
 -   **Purpose:** Review the ITAI 1378 Midterm Project Blueprint
@@ -45,7 +45,7 @@ This work covers the proposal and documentation. We have not trained the model o
     **Smart Recycling Helper**, with image classification as the
     computer-vision task.
 
-### 2026-10-05 --- Presentation Development
+### 2026-10-04 --- Presentation Development
 
 -   **AI tool:** ChatGPT
 -   **Purpose:** Develop and refine proposal slides 6--8.
@@ -55,9 +55,9 @@ This work covers the proposal and documentation. We have not trained the model o
 -   **Human decision:** The team reviewed the proposed metrics,
     milestones, risks, and resources and decided which content to use.
 
-### 2026-10-05 --- Slide Design
+### 2026-10-04 --- Slide Design
 
--   **AI tool:** ChatGPT
+-   **AI tool:** Gemini
 -   **Purpose:** Create a consistent visual design for the proposal
     slides.
 -   **Assistance provided:** Suggested a clean sustainability/AI visual
