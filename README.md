@@ -137,9 +137,9 @@ The final demo video link will be added when the working system is ready.
 - [x] Project idea and Tier 1 selected
 - [x] Planned dataset and model selected
 - [x] GitHub repository created
-- [ ] Proposal completed and submitted
-- [ ] Data README added
-- [ ] AI usage log added
+- [x] Proposal completed and submitted
+- [x] Data README added
+- [x] AI usage log added
 - [ ] First working demo completed
 - [ ] Six-category model trained
 - [ ] Metrics measured
@@ -147,6 +147,6 @@ The final demo video link will be added when the working system is ready.
 
 ## References
 
-Thung, G., & Yang, M. (n.d.). *TrashNet* [Dataset and source code]. GitHub. https://github.com/garythung/trashnet
+Thung, Gary, and Mindy Yang. “Garythung/Trashnet.” GitHub, 2 Dec. 2020, github.com/garythung/trashnet. Accessed 5 Oct. 2026.
 
-PyTorch. (n.d.). *efficientnet_b0*. Torchvision documentation. https://docs.pytorch.org/vision/stable/models/generated/torchvision.models.efficientnet_b0.html
+PyTorch. “Efficientnet_B0 — Torchvision 0.26 Documentation.” Pytorch.Org, 2024, docs.pytorch.org/vision/stable/models/generated/torchvision.models.efficientnet_b0.html. Accessed 5 Oct. 2026.
