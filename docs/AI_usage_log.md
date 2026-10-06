@@ -56,7 +56,7 @@ This work covers the proposal and documentation. We have not trained the model o
 
 ### 2026-10-05 --- Slide Design
 
--   **AI tool:** ChatGPT
+-   **AI tool:** Gemini
 -   **Purpose:** Create a consistent visual design for the proposal
     slides.
 -   **Assistance provided:** Suggested a clean sustainability/AI visual
@@ -69,7 +69,7 @@ This work covers the proposal and documentation. We have not trained the model o
 -   **AI tool:** ChatGPT
 -   **Purpose:** Prepare for the 5-minute class presentation.
 -   **Assistance provided:** Created explanations and a presentation
-    script for slides 6--8.
+    script.
 -   **Human decision:** The final presentation wording will be reviewed
     and adapted by the team members to match their own speaking style.
 
