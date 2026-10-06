@@ -29,6 +29,7 @@ TrashNet provides the images and category labels, while EfficientNet-B0 is the m
 **Current stage:**
 This work covers the proposal and documentation. We have not trained the model or measured results yet.
 
+------------------------------------------------------------------------
 ## Tien Manh Nguyen
 
 ### 2026-10-05 --- Project Proposal Planning
