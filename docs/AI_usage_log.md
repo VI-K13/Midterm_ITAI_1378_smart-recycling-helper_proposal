@@ -26,61 +26,33 @@
 **What I learned:**
 TrashNet provides the images and category labels, while EfficientNet-B0 is the model we plan to adapt. PyTorch handles model training, and Torchvision provides image tools and the model. Validation data helps us tune the model, while the untouched test set checks its final performance.
 
-**Current stage:**
-This work covers the proposal and documentation. We have not trained the model or measured results yet.
-
-------------------------------------------------------------------------
 ## Tien Manh Nguyen
 
-### 2026-10-05 --- Project Proposal Planning
+### October 5, 2026 – Midterm Blueprint
 
--   **AI tool:** ChatGPT
--   **Purpose:** Review the ITAI 1378 Midterm Project Blueprint
-    requirements and rubric.
--   **Assistance provided:** Helped interpret the required 8-slide
-    structure, rubric categories, milestone requirements, and GitHub
-    repository requirements.
--   **Human decision:** The team selected the Tier 1 project idea,
-    **Smart Recycling Helper**, with image classification as the
-    computer-vision task.
+**Tool:** ChatGPT
 
-### 2026-10-05 --- Presentation Development
+**Purpose:** Understand the assignment requirements, learn about our dataset and model, and plan the metrics, timeline, risks, and resources.
 
--   **AI tool:** ChatGPT
--   **Purpose:** Develop and refine proposal slides 6--8.
--   **Assistance provided:** Helped organize the Success Metrics,
-    Milestone Plan, and Risks & Resources slides and suggested concise
-    presentation wording.
--   **Human decision:** The team reviewed the proposed metrics,
-    milestones, risks, and resources and decided which content to use.
+**Assistance received:**
 
-### 2026-10-05 --- Slide Design
+- Explained the eight-slide structure and grading rubric.
+- Helped me understand TrashNet, EfficientNet-B0, and how they fit our project.
+- Suggested ways to organize slides 5–8 and shorten the wording.
+- Gave ideas for explaining the metrics, milestones, and risks during the presentation.
+- Reviewed the presentation and repository requirements for missing items.
 
--   **AI tool:** Gemini
--   **Purpose:** Create a consistent visual design for the proposal
-    slides.
--   **Assistance provided:** Suggested a clean sustainability/AI visual
-    style and generated an editable PowerPoint draft for slides 6--8.
--   **Human decision:** The team reviewed and can modify the generated
-    slide design and content before submission.
+**My decisions and contributions:**
 
-### 2026-10-05 --- Presentation Practice
+- Worked with my teammate to choose Smart Recycling Helper as our Tier 1 project.
+- Reviewed the suggested metrics, milestones, and risks and selected what fit our plan.
+- Decided which wording and content to include in my slides (5-8).
+- Selected ideas that would help me explain my part clearly.
 
--   **AI tool:** ChatGPT
--   **Purpose:** Prepare for the 5-minute class presentation.
--   **Assistance provided:** Created explanations and a presentation
-    script.
--   **Human decision:** The final presentation wording will be reviewed
-    and adapted by the team members to match their own speaking style.
+**What I learned:**
 
-### 2026-10-05 --- Proposal and GitHub Review
+AI assistance helped me understand our dataset and model better. TrashNet provides labeled waste images, and EfficientNet-B0 is the model we plan to adapt to classify them. I also learned how to set clear targets, divide the work into milestones, and prepare backup plans for possible problems.
 
--   **AI tool:** ChatGPT
--   **Purpose:** Review the completed presentation and GitHub
-    documentation against the assignment requirements.
--   **Assistance provided:** Identified consistency issues, wording
-    improvements, the 8-slide requirement, and the need for an AI usage
-    log.
--   **Human decision:** The team will make the final corrections and
-    verify all files before submission.
+## Current stage:
 
+This work covers the proposal and documentation. We have not trained the model or measured results yet.
