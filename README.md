@@ -6,6 +6,7 @@ Midterm Project: The Blueprint
 ## Team Members
 
 - Viktoriya Kurmisheva
+- Abraham Barreto
 - Tien Manh Nguyen
 
 ## Project Tier
@@ -119,8 +120,9 @@ We will use free-tier or open-source resources. If Colab GPU access is unavailab
 
 ## Team Contributions
 
-- **Viktoriya:** Prepared proposal slides 1–4 and created the GitHub repository.
-- **Tien:** Prepared proposal slides 5–8.
+- **Viktoriya:** Prepared proposal slides 1–3 and created the GitHub repository.
+- **Abraham:** Prepared proposal slides 4-5.
+- **Tien:** Prepared proposal slides 6–8.
 
 We will update this section as we complete additional work.
 
